@@ -1,14 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoVitorCard&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando HTML CSS e JavaScript.
-- 🌱 &nbsp; Aprendendo mais sobre HTML CSS e JavaScript e Frameworks.
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
 # João Vitor
 
 Olá! Eu sou o João Vitor e estou aqui para compartilhar meus conhecimentos e adiquirir o máximo que eu puder!
