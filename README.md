@@ -1,8 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoVitorCard&color=006bed)
 
-# João Vitor
-
 Olá! Eu sou o João Vitor e estou aqui para compartilhar meus conhecimentos e adiquirir o máximo que eu puder!
 
 ## Conecte-se comigo!
