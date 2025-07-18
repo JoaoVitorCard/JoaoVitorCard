@@ -9,31 +9,29 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+# João Vitor
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  
-**DevOps**
+Olá! Eu sou o João Vitor e estou aqui para compartilhar meus conhecimentos e adiquirir o máximo que eu puder!
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+## Conecte-se comigo!
 
-**Ferramentas de Desenvolvimento**
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JoaoVitorCard)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitor_15_09/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-90bb56234/)
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-<br/>
+## Habilidades
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorCard&theme=dracula&show_icons=true" />
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+## GitHub status
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorCard&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-João&nbsp;Vitor&nbsp;Cardoso&nbsp;Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/joão-vitor-cardoso-nascimento-90bb56234/)
-[![Gmail Badge](https://img.shields.io/badge/-joaovitornascim@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:joaovitornascim@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/JoaoVitorCard?label=follow&style=social)](https://github.com/JoaoVitorCard)
+## Minhas Contribuições
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorCard&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
